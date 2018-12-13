@@ -76,6 +76,8 @@
   color:#000000;
   text-align:left;
 }
+.flow_shape {
+}
 .connector {
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -95,4 +97,6 @@
 .image {
 }
 .placeholder {
+}
+.table_cell {
 }
